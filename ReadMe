@@ -1,0 +1,16 @@
+Aplicativo gerenciador de trilhas para celular, e utiliza a linguagem Java (SDK), da plataforma Android. 
+
+O aplicativo tem como principais funções registrar, gerenciar e compartilhar a trilha feita pelo usuário. 
+
+Na função "Registrar Trilha", dentro do aplicativo, deverá ser mostrado a posição atual do usuário no mapa. Sobreposta a visão do mapa,
+deverá ser apresentado na forma textual as seguintes informações:
+1) velocidade instantânea do usuário;
+2) cronômetro com o tempo transcorrido desde o início do monitoramento;
+3) a distância total percorrida. 
+Essas partes foram construídas utilizando conhecimentos de desenvolvimento em dispositivos móveis, e a parte do mapa em tempo real foi desenvolvido com a API do Google Maps.
+
+A função "Gerenciar Trilha" permite apagar ou visualizar as trilhas ou o resumo das trilhas realizadas. As trilhas
+realizadas deverão ser visualizadas em um mapa mostrando o trajeto percorrido. O resumo das trilhas deverá
+apresentar a data de início, a velocidade média do percurso, a distância total percorrida e a duração da trilha.
+
+A função "Compartilhar Trilha" tem como função compartilhar o trajeto feito pelo usuário, permitindo compartilhar todas as informações de uma trilha realizada com outro usuário da aplicação.
